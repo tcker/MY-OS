@@ -3,6 +3,9 @@
 10 - 27 - 2024
 - This OS can boot up properly and it does nothing, exactly what we expected
 
+10 - 29 - 2024
+- This os can boot up and display/print a string "Hello, World! le User"
+
 # My very first OS
 
 - my Tutorial: https://www.youtube.com/watch?v=9t-SPC7Tczc
