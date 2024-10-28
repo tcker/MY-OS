@@ -9,6 +9,7 @@
 # My very first OS
 
 - my Tutorial: https://www.youtube.com/watch?v=9t-SPC7Tczc
+- now/current Tutorial: https://www.youtube.com/watch?v=srbnMNk7K7k&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN
 
 --
 
